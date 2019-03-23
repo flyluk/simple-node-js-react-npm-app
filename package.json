@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
@@ -13,7 +13,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "release": "generate-release"
-    
   },
   "devDependencies": {
     "generate-release": "^1.1.1"
